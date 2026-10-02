@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Superior PRO
+  title: Dokumentation Superior PRO Theme (Shopware 6)
   structure:
     - type: space
       key: superior-pro
