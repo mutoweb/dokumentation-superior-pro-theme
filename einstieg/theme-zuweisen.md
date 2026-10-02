@@ -5,17 +5,19 @@ Das Theme muss einem Verkaufskanal zugewiesen sein, sonst siehst du die Einstell
 ## Zuweisen
 
 1. Öffne **Inhalte → Themes**.
-2. Wechsle zum Tab **Verkaufskanäle**, falls Shopware ihn anbietet, oder öffne den Verkaufskanal und wähle dort das Theme.
-3. Weise **Superior PRO Theme** dem Verkaufskanal zu, den du gestalten willst.
-4. Öffne danach **Superior PRO Theme** und passe die Konfiguration an.
+2. Klicke auf das **Superior PRO Theme**
+3. Weise dem **Superior PRO Theme** den gewünschten Verkaufskanal zu, den du gestalten willst.
+4. Passe danach die Konfiguration für Farben und Aussehen an. Nutze dazu am besten eines unserer Presets für eine ideale Ausgangssituation
 
 Jeder Verkaufskanal kann eine eigene Theme-Konfiguration haben. Werte, die du in einem Kanal speicherst, gelten nicht automatisch im nächsten.
 
 ## Speichern
 
-Unten in der Theme-Konfiguration speicherst du die Änderungen. Shopware kompiliert das Theme dabei neu. Erst danach sind Farben, Schriften und Abstände im Storefront sichtbar.
+Oben in der Theme-Konfiguration speicherst du die Änderungen. Shopware kompiliert das Theme dabei neu. Erst danach sind Farben, Schriften und Abstände im Storefront sichtbar.
 
 Dieselben Schritte gelten, wenn du CSS für eine eigene Schrift im Tab **Custom Code** einträgst. Ohne Speichern bleibt die Schrift unsichtbar.
+
+Leere im Anschluss noch den Cache unter **Einstellungen  Caches & Indizes** 
 
 ## Erlebniswelten speichern
 
