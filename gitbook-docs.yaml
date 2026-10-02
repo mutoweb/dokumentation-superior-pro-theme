@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Superior PRO
+  structure:
+    - type: space
+      key: superior-pro
+      title: Superior PRO
+      path: docs
+      default: true
+      content:
+        directory: .
+        language: de
