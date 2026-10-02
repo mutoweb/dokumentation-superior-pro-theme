@@ -4,9 +4,9 @@ site:
   structure:
     - type: space
       key: superior-pro
-      title: Superior PRO
+      title: Dokumentation Superior PRO Theme (Shopware 6)
       path: docs
       default: true
       content:
-        directory: .
+        directory: ./
         language: de
