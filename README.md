@@ -4,9 +4,7 @@ description: Superior PRO | Theme für Shopware 6
 
 # Dokumentation
 
-
-
-<figure><img src=".gitbook/assets/c2ad557c104a6d405250edf84783834f.png.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/cover-superior-pro-theme-sw6.jpg" alt=""><figcaption></figcaption></figure>
 
 Diese Anleitung erklärt, was du im Theme einstellen kannst und wie du die eigenen Bausteine in den Erlebniswelten verwendest. Du brauchst dafür keine Programmierkenntnisse.
 
