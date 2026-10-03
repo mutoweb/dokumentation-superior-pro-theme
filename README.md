@@ -1,6 +1,12 @@
+---
+description: Superior PRO | Theme für Shopware 6
+---
+
 # Dokumentation
 
-Superior PRO | Theme für Shopware 6
+
+
+<figure><img src=".gitbook/assets/c2ad557c104a6d405250edf84783834f.png.jpeg" alt=""><figcaption></figcaption></figure>
 
 Diese Anleitung erklärt, was du im Theme einstellen kannst und wie du die eigenen Bausteine in den Erlebniswelten verwendest. Du brauchst dafür keine Programmierkenntnisse.
 
@@ -12,10 +18,10 @@ Die Kapitel folgen den Tabs im Theme-Manager und den Bausteinen in den Erlebnisw
 
 ## So liest du die Anleitung
 
-* [Einstieg](einstieg/README.md) erklärt, was shopweit gilt und was nur auf einer Seite, und wie du das Theme einem Verkaufskanal zuweist.
-* [Theme einrichten](theme-einstellungen/README.md) geht Tab für Tab durch Farben, Schriften, Header, Navigation, Footer, Produktlisten und die übrigen Bereiche.
-* [Erlebniswelten](erlebniswelten/README.md) erklärt Sektionen, Blöcke und die eigenen Elemente für Startseite, Kategorien und Landingpages.
-* [Hilfen](hilfen/README.md) sammelt Textbausteine, eigene Schriften und den Config-Finder.
+* [Einstieg](einstieg/) erklärt, was shopweit gilt und was nur auf einer Seite, und wie du das Theme einem Verkaufskanal zuweist.
+* [Theme einrichten](theme-einstellungen/) geht Tab für Tab durch Farben, Schriften, Header, Navigation, Footer, Produktlisten und die übrigen Bereiche.
+* [Erlebniswelten](erlebniswelten/) erklärt Sektionen, Blöcke und die eigenen Elemente für Startseite, Kategorien und Landingpages.
+* [Hilfen](hilfen/) sammelt Textbausteine, eigene Schriften und den Config-Finder.
 
 {% hint style="info" %}
 Über dem Farb-Preset im Theme-Manager steht eine kurze Bitte um eine Bewertung. Sie ändert keine Farben und keine gespeicherten Werte.
