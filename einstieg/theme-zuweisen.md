@@ -17,7 +17,7 @@ Oben in der Theme-Konfiguration speicherst du die Änderungen. Shopware kompilie
 
 Dieselben Schritte gelten, wenn du CSS für eine eigene Schrift im Tab **Custom Code** einträgst. Ohne Speichern bleibt die Schrift unsichtbar.
 
-Leere im Anschluss noch den Cache unter **Einstellungen  Caches & Indizes** 
+Leere im Anschluss noch den Cache unter **Einstellungen → Caches & Indizes**
 
 ## Erlebniswelten speichern
 
