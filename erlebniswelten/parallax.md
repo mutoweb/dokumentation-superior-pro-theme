@@ -1,11 +1,13 @@
 # Parallax
 
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 Für eine Sektion mit Hintergrundbild gibt es unter dem Bildmodus das Feld **Parallax**.
 
-| Auswahl | Wirkung |
-| --- | --- |
-| Aus | Das Bild scrollt mit der Sektion. Eine vorhandene Parallax-Klasse wird entfernt. |
-| Fixiert | Das Bild bleibt beim Scrollen stehen. |
+| Auswahl  | Wirkung                                                                                     |
+| -------- | ------------------------------------------------------------------------------------------- |
+| Aus      | Das Bild scrollt mit der Sektion. Eine vorhandene Parallax-Klasse wird entfernt.            |
+| Fixiert  | Das Bild bleibt beim Scrollen stehen.                                                       |
 | Parallax | Das Bild bewegt sich langsamer als der Inhalt, solange die Sektion durch das Fenster läuft. |
 
 Es gilt immer nur eine der beiden Bewegungen. Andere Klassen bleiben. Du kannst die Klasse auch weiterhin direkt eintragen: `muto-parallax` für Fixiert und `muto-parallax-scroll` für Parallax. Stehen beide Klassen im Feld, gilt die letzte.
