@@ -17,7 +17,7 @@ Ein Tausch ersetzt das Element in dieser Spalte. Bilder und Texte des vorherigen
 
 
 {% columns %}
-{% column %}
+{% column valign="middle" %}
 ## Fertige Blöcke statt leerer Spalten
 
 Unter **+ Elemente (SuperiorPRO)** liegen Blöcke, in denen das passende Element schon eingesetzt ist. Drei Teaser legst du so in einem Schritt an, ohne das Raster selbst zu bauen. Die Übersicht steht auf der Seite [Fertige Blöcke](fertige-bloecke.md).
