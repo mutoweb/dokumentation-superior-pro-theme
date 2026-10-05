@@ -6,18 +6,20 @@ Der Abstand gilt nur für den Block, an dem du ihn setzt. Andere Blöcke auf der
 
 ## Über die Block-Einstellungen
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 1. Klicke den Block in der Erlebniswelt an.
 2. Öffne rechts den Bereich **Layout**.
 3. Wähle unter **Spaltenabstand** einen Wert.
 
 Der gewählte Abstand ist in der Zeichenfläche nur an diesem Block sichtbar. **Nicht gesetzt** und **Standard** behalten dort den Abstand der Administration.
 
-| Auswahl | Wirkung |
-| --- | --- |
-| Nicht gesetzt | Der normale Abstand des Themes bleibt. Es wird keine eigene Klasse geschrieben. |
-| Standard | Der Standard-Abstand des Themes wird ausdrücklich gesetzt. |
-| 0 px | Der Abstand entfällt. Die Spalten stoßen aneinander. |
-| 5 px bis 50 px | Fester Abstand in 5-px-Schritten. |
+| Auswahl        | Wirkung                                                                         |
+| -------------- | ------------------------------------------------------------------------------- |
+| Nicht gesetzt  | Der normale Abstand des Themes bleibt. Es wird keine eigene Klasse geschrieben. |
+| Standard       | Der Standard-Abstand des Themes wird ausdrücklich gesetzt.                      |
+| 0 px           | Der Abstand entfällt. Die Spalten stoßen aneinander.                            |
+| 5 px bis 50 px | Fester Abstand in 5-px-Schritten.                                               |
 
 Weitere CSS-Klassen trägst du weiterhin in das Feld **CSS-Klassen** darunter ein. Die Abstandsklasse aus der Auswahl und deine eigenen Klassen stehen nebeneinander.
 
