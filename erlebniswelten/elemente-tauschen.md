@@ -14,6 +14,8 @@ Die Elemente von Superior PRO setzt du in jede Spalte eines Blocks, auch in die 
 
 Ein Tausch ersetzt das Element in dieser Spalte. Bilder und Texte des vorherigen Elements bleiben nicht erhalten. Die CSS-Klassen des Blocks bleiben stehen.
 
+
+
 {% columns %}
 {% column %}
 ## Fertige Blöcke statt leerer Spalten
@@ -24,7 +26,7 @@ Neue Raster unter **+ Spalten (SuperiorPRO)** starten mit dem [Leeren Element](l
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (5).png" alt="" width="188"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 
