@@ -6,15 +6,17 @@ Logo-Breiten, Suchfeld-Farben und die TopBar-Farben liegen im Tab [Header](heade
 
 ## Farb-Preset
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 Oben findest du das Feld **Farb-Preset**. Damit setzt du mit einem Klick eine vorbereitete Farbpalette.
 
-| Preset | Charakter |
-| --- | --- |
+| Preset              | Charakter                                   |
+| ------------------- | ------------------------------------------- |
 | Kein Preset gewählt | Ändert nichts. Das ist der Ausgangszustand. |
-| Preset Green | Salbeigrün |
-| Preset Orange-Blue | Orange und Schieferblau |
-| Preset Mono | Schwarz, Weiß und Grau |
-| Preset Yellow-Black | Amber und Schwarz |
+| Preset Green        | Salbeigrün                                  |
+| Preset Orange-Blue  | Orange und Schieferblau                     |
+| Preset Mono         | Schwarz, Weiß und Grau                      |
+| Preset Yellow-Black | Amber und Schwarz                           |
 
 Ein Preset greift nur, wenn du es aktiv auswählst. Dabei werden zuerst die Farb-Standards gesetzt und danach die Palette. Der Wechsel setzt auch Hintergrund und Text des Newsletter-E-Mail-Feldes auf die Formularfeld-Farben zurück.
 
@@ -34,20 +36,20 @@ Ein Preset greift nur, wenn du es aktiv auswählst. Dabei werden zuerst die Farb
 
 Diese vier Farben markieren Rückmeldungen im Shop, zum Beispiel nach dem Speichern einer Adresse oder bei einem Hinweis im Checkout.
 
-| Feld | Typische Verwendung |
-| --- | --- |
-| Erfolg | Bestätigungen |
-| Information | neutrale Hinweise |
-| Hinweis | Warnungen |
-| Fehler | Fehlermeldungen |
+| Feld        | Typische Verwendung |
+| ----------- | ------------------- |
+| Erfolg      | Bestätigungen       |
+| Information | neutrale Hinweise   |
+| Hinweis     | Warnungen           |
+| Fehler      | Fehlermeldungen     |
 
 ### E-Commerce
 
-| Feld | Wirkung |
-| --- | --- |
-| Preis | die normale Preisfarbe in Produktbox und Produktdetail |
-| Kaufen-Button | Hintergrund des Kauf-Buttons |
-| Kaufen-Button Text | Schrift auf dem Kauf-Button |
+| Feld               | Wirkung                                                |
+| ------------------ | ------------------------------------------------------ |
+| Preis              | die normale Preisfarbe in Produktbox und Produktdetail |
+| Kaufen-Button      | Hintergrund des Kauf-Buttons                           |
+| Kaufen-Button Text | Schrift auf dem Kauf-Button                            |
 
 Die Produktbox kann Preis und Streichpreis zusätzlich eigen färben. Diese Felder liegen unter [Produktboxen](produktlisting/produktboxen.md). Solange du sie nicht abweichend setzt, bleibt der Preis hier die Quelle.
 
@@ -82,11 +84,11 @@ Liegt das Suchfeld auf kleinen Bildschirmen unter Logo und Buttons, lässt es si
 
 **Fixierte Header aktiv?** hat drei Stufen.
 
-| Auswahl | Verhalten |
-| --- | --- |
-| Deaktiviert | Der Header scrollt mit dem Inhalt nach oben und bleibt dort. Es gibt keinen fixierten Header. |
+| Auswahl               | Verhalten                                                                                                                                                                                                      |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Deaktiviert           | Der Header scrollt mit dem Inhalt nach oben und bleibt dort. Es gibt keinen fixierten Header.                                                                                                                  |
 | Nur große Bildschirme | Ab 769 px scrollt der Header beim Runterscrollen aus dem Blick und kommt wieder, sobald du nach oben scrollst. Ganz oben sitzt er an seiner normalen Position. Auf dem Smartphone bleibt dieses Verhalten aus. |
-| Alle Bildschirmgrößen | Dieselbe Bewegung gilt auch auf dem Handy. |
+| Alle Bildschirmgrößen | Dieselbe Bewegung gilt auch auf dem Handy.                                                                                                                                                                     |
 
 **Schatten bei fixiertem Header?** zeichnet unter der fixierten Leiste einen Schatten, sobald sie eingeblendet ist.
 
@@ -107,11 +109,11 @@ Standardmäßig läuft der Shop über die volle Browserbreite.
 
 **TopBar Typ** steuert die Leiste über dem Header. Dort sitzen Sprach- und Währungsumschaltung, ein Marketingtext und die Links zu Anmeldung und Registrierung.
 
-| Auswahl | Verhalten |
-| --- | --- |
+| Auswahl          | Verhalten                                                                                                                    |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | ein-/ausklappbar | Ein Icon klappt die Leiste auf und zu. Der Browser merkt sich den Zustand auch nach einem Reload und beim Wechsel der Seite. |
-| immer sichtbar | Die Leiste bleibt offen. |
-| nicht sichtbar | Die Leiste ist ausgeblendet. Farben und Texte bleiben gespeichert. |
+| immer sichtbar   | Die Leiste bleibt offen.                                                                                                     |
+| nicht sichtbar   | Die Leiste ist ausgeblendet. Farben und Texte bleiben gespeichert.                                                           |
 
 Farben, der Marketingtext und die beiden Schalter für Anmeldung und Marketing liegen im Tab [Header](header.md).
 
@@ -125,10 +127,10 @@ Die Überschrift des Hinweises änderst du über den Textbaustein `mutoTheme.coo
 
 Drei Werte runden Flächen im ganzen Shop. Der Wert ist jeweils in Pixel. `0` lässt die Ecken eckig.
 
-| Feld | Wirkt auf |
-| --- | --- |
-| Buttons | Schaltflächen, unter anderem Warenkorb, Mengenauswahl, Pagination und den Entfernen-Button auf dem Merkzettel |
-| Inputs | Formularfelder. Die Verpackungseinheit am Mengenfeld nutzt rechts denselben Radius. |
+| Feld     | Wirkt auf                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Buttons  | Schaltflächen, unter anderem Warenkorb, Mengenauswahl, Pagination und den Entfernen-Button auf dem Merkzettel             |
+| Inputs   | Formularfelder. Die Verpackungseinheit am Mengenfeld nutzt rechts denselben Radius.                                       |
 | Elemente | Bilder, Karten, Teaser Image Box, erweitertes Text-Element, Modal-Fenster, Staffelpreis-Tabelle und Eigenschaften-Tabelle |
 
 Die Produkt-Tabs im individuellen Stil nutzen den Button-Radius. Details stehen auf der Seite [Produktseite](produktseite.md). Das Suchfeld im Header kann einen eigenen Radius haben, der nur dort gilt.
@@ -139,14 +141,14 @@ Der Preloader liegt im selben Tab unter **Preloader**. Er deckt den Shop kurz ab
 
 **Preloader Design** bietet:
 
-| Auswahl | Darstellung |
-| --- | --- |
-| Preloader deaktiviert | kein Ladebildschirm |
-| Balken | ein laufender Balken |
-| Kreis | ein Kreis |
-| Wellen | Wellen |
-| Herz | ein Herz |
-| Punkte | Punkte |
+| Auswahl               | Darstellung          |
+| --------------------- | -------------------- |
+| Preloader deaktiviert | kein Ladebildschirm  |
+| Balken                | ein laufender Balken |
+| Kreis                 | ein Kreis            |
+| Wellen                | Wellen               |
+| Herz                  | ein Herz             |
+| Punkte                | Punkte               |
 
 **Hintergrundfarbe** färbt die Fläche während des Ladens. **Loading Icon Farbe** färbt das Symbol darauf.
 
