@@ -1,5 +1,7 @@
 # Versatz
 
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 Mit dem Versatz schiebst du den Inhalt einer Sektion über den Rand ihres Hintergrunds. Das Bild oder die Farbe der Sektion bleibt stehen. So ragt eine Kachel oder ein Text in die nächste Sektion hinein.
 
 Der Versatz liegt an der Sektion, nicht am Block.
@@ -15,23 +17,23 @@ Der Versatz liegt an der Sektion, nicht am Block.
 
 ## Nach unten
 
-| Auswahl | Verschiebung |
-| --- | --- |
-| Nach unten 50 px | 50 px |
-| Nach unten 100 px | 100 px |
-| Nach unten 150 px | 150 px |
-| Nach unten 200 px | 200 px |
-| Nach unten 250 px | 250 px |
+| Auswahl           | Verschiebung |
+| ----------------- | ------------ |
+| Nach unten 50 px  | 50 px        |
+| Nach unten 100 px | 100 px       |
+| Nach unten 150 px | 150 px       |
+| Nach unten 200 px | 200 px       |
+| Nach unten 250 px | 250 px       |
 
 ## Nach oben
 
-| Auswahl | Verschiebung |
-| --- | --- |
-| Nach oben 50 px | 50 px |
-| Nach oben 100 px | 100 px |
-| Nach oben 150 px | 150 px |
-| Nach oben 200 px | 200 px |
-| Nach oben 250 px | 250 px |
+| Auswahl          | Verschiebung |
+| ---------------- | ------------ |
+| Nach oben 50 px  | 50 px        |
+| Nach oben 100 px | 100 px       |
+| Nach oben 150 px | 150 px       |
+| Nach oben 200 px | 200 px       |
+| Nach oben 250 px | 250 px       |
 
 Dieselbe Wirkung haben die Klassen `muto-cms-section-offset-pt-1` bis `muto-cms-section-offset-pt-5` nach unten und `muto-cms-section-offset-nt-1` bis `muto-cms-section-offset-nt-5` nach oben. Die Zahl ist die Stufe, nicht die Pixelzahl. Stufe 1 sind 50 px, Stufe 5 sind 250 px.
 
