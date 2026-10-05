@@ -1,5 +1,7 @@
 # Scroll-Animation
 
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 An einer Sektion und an einem Block gibt es den Bereich **Scroll Animation**. Die Fläche blendet ein, wenn sie ins Bild kommt, und kann einen zweiten Effekt spielen, wenn du zurückscrollst.
 
 Ohne Auswahl bleibt alles unverändert. Weitere CSS-Klassen bleiben erhalten.
@@ -8,11 +10,11 @@ Dieselben Effektnamen gibt es für die Produktboxen im Theme-Manager. Die Erklä
 
 ## Felder
 
-| Feld | Wirkung |
-| --- | --- |
-| Beim Hineinscrollen | Der Effekt, sobald die Fläche ins Bild scrollt. **Keine** entfernt ihn. |
+| Feld                | Wirkung                                                                                        |
+| ------------------- | ---------------------------------------------------------------------------------------------- |
+| Beim Hineinscrollen | Der Effekt, sobald die Fläche ins Bild scrollt. **Keine** entfernt ihn.                        |
 | Beim Zurückscrollen | Der Effekt, wenn die Fläche beim Hochscrollen das Bild verlässt. **Keine** lässt sie sichtbar. |
-| Dauer | Die Länge des Effekts. **Standard** behält 0,9 Sekunden. |
+| Dauer               | Die Länge des Effekts. **Standard** behält 0,9 Sekunden.                                       |
 
 Die Dauer stellst du von 300 ms bis 2000 ms in Schritten von 100 ms ein. Sie wirkt nur zusammen mit einem Effekt. Ohne Effekt ändert die Dauer nichts.
 
@@ -20,29 +22,29 @@ Die Animation startet 100 px über dem unteren Rand des Fensters, unabhängig vo
 
 ## Effekte beim Hineinscrollen
 
-| Auswahl | Bewegung |
-| --- | --- |
-| Keine | Die Fläche ist sofort sichtbar. |
-| Fade | Die Fläche blendet ein. |
-| Slide von unten | Die Fläche kommt von unten. |
-| Slide von oben | Die Fläche kommt von oben. |
-| Slide von rechts | Die Fläche kommt von rechts. |
-| Slide von links | Die Fläche kommt von links. |
-| Zoom kleiner | Die Fläche startet etwas kleiner und wächst auf die normale Größe. |
-| Zoom größer | Die Fläche startet etwas kleiner und wächst auf die normale Größe. |
+| Auswahl          | Bewegung                                                           |
+| ---------------- | ------------------------------------------------------------------ |
+| Keine            | Die Fläche ist sofort sichtbar.                                    |
+| Fade             | Die Fläche blendet ein.                                            |
+| Slide von unten  | Die Fläche kommt von unten.                                        |
+| Slide von oben   | Die Fläche kommt von oben.                                         |
+| Slide von rechts | Die Fläche kommt von rechts.                                       |
+| Slide von links  | Die Fläche kommt von links.                                        |
+| Zoom kleiner     | Die Fläche startet etwas kleiner und wächst auf die normale Größe. |
+| Zoom größer      | Die Fläche startet etwas kleiner und wächst auf die normale Größe. |
 
 ## Effekte beim Zurückscrollen
 
-| Auswahl | Bewegung |
-| --- | --- |
-| Keine | Die Fläche bleibt sichtbar. |
-| Fade | Die Fläche blendet aus. |
-| Slide nach oben | Die Fläche fährt nach oben heraus. |
-| Slide nach unten | Die Fläche fährt nach unten heraus. |
-| Slide nach links | Die Fläche fährt nach links heraus. |
+| Auswahl           | Bewegung                             |
+| ----------------- | ------------------------------------ |
+| Keine             | Die Fläche bleibt sichtbar.          |
+| Fade              | Die Fläche blendet aus.              |
+| Slide nach oben   | Die Fläche fährt nach oben heraus.   |
+| Slide nach unten  | Die Fläche fährt nach unten heraus.  |
+| Slide nach links  | Die Fläche fährt nach links heraus.  |
 | Slide nach rechts | Die Fläche fährt nach rechts heraus. |
-| Zoom kleiner | Die Fläche wird etwas kleiner. |
-| Zoom größer | Die Fläche wird etwas größer. |
+| Zoom kleiner      | Die Fläche wird etwas kleiner.       |
+| Zoom größer       | Die Fläche wird etwas größer.        |
 
 Ein zweites Hineinscrollen nutzt wieder den Effekt vom Hineinscrollen, auch wenn der Effekt beim Zurückscrollen ein anderer ist. Seitliches Sliden und Zoom verbreitern die Seite nicht, auch auf dem Smartphone.
 
