@@ -12,7 +12,7 @@ Die Einstellungen erreichst du in der Administration unter **Inhalte → Themes*
 
 Die Kapitel folgen den Tabs im Theme-Manager und den Bausteinen in den Erlebniswelten. Fehlt dir etwas, erreichst du uns über [muto.at](https://muto.at).
 
-[Theme erwerben](https://store.shopware.com/muto435137201325/superior-pro-theme-fuer-shopware-6.html?number=muto435137201325m) · [Demoshop besuchen](http://sw6-superior-pro.muto.one)
+[Theme erwerben](https://store.shopware.com/muto435137201325/superior-pro-theme-fuer-shopware-6.html?number=muto435137201325m) · [Demoshop besuchen](http://sw6-superior-pro.muto.one) · [Download Child-Theme](hilfen/child-theme.md)
 
 ## So liest du die Anleitung
 
