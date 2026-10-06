@@ -10,7 +10,7 @@ Voraussetzung ist Shopware 6.7 oder neuer und Superior PRO ab Version 1.6.3. Bei
 
 Lade das Child-Theme als Zip-Datei herunter und installiere es wie unten beschrieben.
 
-[Superior PRO Child-Theme herunterladen]()
+{% file src="../.gitbook/assets/MutoSuperiorProChild.zip" %}
 
 ## Installieren
 
