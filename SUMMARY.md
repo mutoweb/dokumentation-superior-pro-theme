@@ -47,3 +47,4 @@
   * [Textbausteine](hilfen/textbausteine.md)
   * [Eigene Schriftarten](hilfen/eigene-schriftarten.md)
   * [Config-Finder](hilfen/config-finder.md)
+  * [Child-Theme](hilfen/child-theme.md)
